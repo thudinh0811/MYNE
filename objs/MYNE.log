@@ -1,0 +1,162 @@
+﻿  Action.cpp
+  Animation.cpp
+C:\Users\kypco\Study\CS4300\MYNE\src\Animation.cpp(22,94): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\kypco\Study\CS4300\MYNE\src\Animation.cpp(22,84): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\kypco\Study\CS4300\MYNE\src\Animation.cpp(22,63): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\kypco\Study\CS4300\MYNE\src\Animation.cpp(36,78): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\kypco\Study\CS4300\MYNE\src\Animation.cpp(36,68): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\kypco\Study\CS4300\MYNE\src\Animation.cpp(36,47): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Assets.cpp
+C:\Users\kypco\Study\CS4300\MYNE\src\Assets.cpp(180,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kypco\Study\CS4300\MYNE\src\Assets.cpp(188,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Entity.cpp
+  EntityManager.cpp
+  GameEngine.cpp
+C:\Users\kypco\Study\CS4300\MYNE\src\GameEngine.cpp(85,30): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\kypco\Study\CS4300\MYNE\src\GameEngine.cpp(85,22): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Inventory.cpp
+  Parallax.cpp
+  Pathfinding.cpp
+  Physics.cpp
+  Scene.cpp
+  Scene_Editor.cpp
+C:\Users\kypco\Study\CS4300\MYNE\src\Scene_Editor.cpp(262,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kypco\Study\CS4300\MYNE\src\Scene_Editor.cpp(262,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kypco\Study\CS4300\MYNE\src\Scene_Editor.cpp(276,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kypco\Study\CS4300\MYNE\src\Scene_Editor.cpp(276,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kypco\Study\CS4300\MYNE\src\Scene_Editor.cpp(322,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kypco\Study\CS4300\MYNE\src\Scene_Editor.cpp(322,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kypco\Study\CS4300\MYNE\src\Scene_Editor.cpp(499,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\kypco\Study\CS4300\MYNE\src\Scene_Editor.cpp(632,48): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\kypco\Study\CS4300\MYNE\src\Entity.h(63,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kypco\Study\CS4300\MYNE\src\Scene_Editor.cpp(291): message : see reference to function template instantiation 'T &Entity::addComponent<CDamage,float&>(float &)' being compiled
+          with
+          [
+              T=CDamage
+          ]
+C:\Users\kypco\Study\CS4300\MYNE\src\Entity.h(63,42): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kypco\Study\CS4300\MYNE\src\Scene_Editor.cpp(295): message : see reference to function template instantiation 'T &Entity::addComponent<CGravity,int>(int &&)' being compiled
+          with
+          [
+              T=CGravity
+          ]
+  Scene_End.cpp
+C:\Users\kypco\Study\CS4300\MYNE\src\Scene_End.cpp(59,55): warning C4244: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\kypco\Study\CS4300\MYNE\src\Scene_End.cpp(105,41): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+  Scene_Menu.cpp
+C:\Users\kypco\Study\CS4300\MYNE\src\Scene_Menu.cpp(34,103): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\kypco\Study\CS4300\MYNE\src\Scene_Menu.cpp(34,69): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\kypco\Study\CS4300\MYNE\src\Scene_Menu.cpp(38,106): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\kypco\Study\CS4300\MYNE\src\Scene_Menu.cpp(38,71): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\kypco\Study\CS4300\MYNE\src\Scene_Menu.cpp(124,57): warning C4244: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Scene_Play.cpp
+C:\Users\kypco\Study\CS4300\MYNE\src\Scene_Play.cpp(109,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kypco\Study\CS4300\MYNE\src\Scene_Play.cpp(109,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kypco\Study\CS4300\MYNE\src\Scene_Play.cpp(211,87): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\kypco\Study\CS4300\MYNE\src\Scene_Play.cpp(734,164): warning C4244: 'argument': conversion from 'const float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\kypco\Study\CS4300\MYNE\src\Scene_Play.cpp(734,65): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\kypco\Study\CS4300\MYNE\src\Scene_Play.cpp(894,49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kypco\Study\CS4300\MYNE\src\Scene_Play.cpp(911,49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kypco\Study\CS4300\MYNE\src\Scene_Play.cpp(944,65): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kypco\Study\CS4300\MYNE\src\Scene_Play.cpp(968,52): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kypco\Study\CS4300\MYNE\src\Scene_Play.cpp(994,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\kypco\Study\CS4300\MYNE\src\Scene_Play.cpp(1003,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\kypco\Study\CS4300\MYNE\src\Scene_Play.cpp(1223,48): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\kypco\Study\CS4300\MYNE\src\Entity.h(63,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kypco\Study\CS4300\MYNE\src\Scene_Play.cpp(557): message : see reference to function template instantiation 'T &Entity::addComponent<CWeaponReset,float&>(float &)' being compiled
+          with
+          [
+              T=CWeaponReset
+          ]
+  Scene_Settings.cpp
+C:\Users\kypco\Study\CS4300\MYNE\src\Scene_Settings.cpp(181,52): warning C4244: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Scene_World.cpp
+C:\Users\kypco\Study\CS4300\MYNE\src\Scene_World.cpp(55,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kypco\Study\CS4300\MYNE\src\Scene_World.cpp(55,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kypco\Study\CS4300\MYNE\src\Scene_World.cpp(238,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\kypco\Study\CS4300\MYNE\src\Scene_World.cpp(361,48): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+  Settings.cpp
+  Vec2.cpp
+  main.cpp
+  Generating Code...
+  MYNE.vcxproj -> C:\Users\kypco\Study\CS4300\MYNE\bin\MYNE.exe

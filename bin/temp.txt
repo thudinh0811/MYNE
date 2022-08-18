@@ -1,0 +1,275 @@
+Player 0 2 48 64 -20 5 20 0.75 15
+Dec GardenTree 22 1.5
+Dec GardenTree 95.5 1.5
+Dec GardenTree 14.5 1.5
+Dec BossTree 50.5 1.5
+Dec Cloud 14 10.5
+Dec Cloud 1 10.5
+Dec Cloud 3.5 9.5
+Dec BossTree 9 1.5
+Dec GardenTree 27.5 1.5
+Dec BossTree 19.5 1.5
+Dec BossTree 34.5 1.5
+Dec GardenTree 30 1.5
+Dec BossTree 84 1.5
+Dec GardenTree 39.5 1.5
+Dec BossTree 37 1.5
+Dec BossTree 55 1.5
+Dec GardenTree 53 1.5
+Dec BossTree 79 1.5
+Dec BossTree 93 1.5
+Dec BossTree 81.5 1.5
+Dec GardenTree 90.5 1.5
+Dec Cloud 7 10.5
+Dec Cloud 12.5 10
+Dec Cloud 23.5 10.5
+Dec Cloud 15.5 9.5
+Dec Cloud 21.5 10.5
+Dec Cloud 98 10.5
+Dec Cloud 23 9.5
+Dec Cloud 31 11
+Dec Cloud 34 10
+Dec Cloud 37.5 11
+Dec Cloud 39.5 9.5
+Dec Cloud 45.5 10.5
+Dec Cloud 46.5 9.5
+Dec Cloud 48 10.5
+Dec Cloud 49 9
+Dec Cloud 56 10
+Dec Cloud 59 11
+Dec Cloud 61 9.5
+Dec Cloud 67.5 10.5
+Dec Cloud 65.5 7
+Dec Cloud 72.5 10.5
+Dec Cloud 80.5 10.5
+Dec Cloud 83 9.5
+Dec Cloud 85.5 8.5
+Dec Cloud 92 10.5
+Dec Cloud 95 9.5
+Dec Cloud 69.5 9.5
+Dec Cloud 72.5 7.5
+Dec Cloud 76 8.5
+Item Gun 42 1
+Item Hammer 11 1
+Item Sword 2 1
+Item Health 80 5
+Item Speed 64 4
+Item Damage 38 5
+Mob GardenMob 6 1 0 0 1 4 1 Patrol 2 2 6 1 10 1
+Mob GardenMob 12 1 0 0 1 4 1 Patrol 2 2 12 1 8 1
+Mob GardenMob 13 6 0 0 1 2 1 Follow 4 400
+Tile Dirt 0 0 1 1
+Tile Dirt 1 0 1 1
+Tile Dirt 2 0 1 1
+Tile Dirt 3 0 1 1
+Tile Dirt 4 0 1 1
+Tile Dirt 5 0 1 1
+Tile Dirt 6 0 1 1
+Tile Dirt 7 0 1 1
+Tile Dirt 8 0 1 1
+Tile Dirt 9 0 1 1
+Tile Dirt 10 0 1 1
+Tile Dirt 12 0 1 1
+Tile Dirt 13 0 1 1
+Tile Dirt 8 4 1 1
+Tile Dirt 15 0 1 1
+Tile Dirt 16 0 1 1
+Tile Dirt 17 2 1 1
+Tile Dirt 18 0 1 1
+Tile Dirt 19 0 1 1
+Tile Dirt 20 0 1 1
+Tile Dirt 21 0 1 1
+Tile Dirt 22 0 1 1
+Tile Dirt 23 0 1 1
+Tile Dirt 24 0 1 1
+Tile Dirt 25 0 1 1
+Tile Dirt 9 4 1 1
+Tile Dirt 14 0 1 1
+Tile Dirt 11 0 1 1
+Tile Dirt 5 6 1 1
+Tile Dirt 5 3 1 1
+Tile Dirt 10 4 1 1
+Tile Dirt 12 5 1 1
+Tile Dirt 13 5 1 1
+Tile Dirt 27 0 1 1
+Tile Dirt 45 0 1 1
+Tile Dirt 26 0 1 1
+Tile Dirt 28 0 1 1
+Tile Dirt 29 0 1 1
+Tile Dirt 30 0 1 1
+Tile Dirt 31 0 1 1
+Tile Dirt 32 0 1 1
+Tile Dirt 71 5 1 1
+Tile Dirt 34 0 1 1
+Tile Dirt 14 5 1 1
+Tile Dirt 17 0 1 1
+Tile Dirt 17 1 1 1
+Tile Dirt 17 3 1 1
+Tile Dirt 17 4 1 1
+Tile Dirt 17 6 1 1
+Tile Dirt 21 4 1 1
+Tile Dirt 24 5 1 1
+Tile Dirt 18 6 1 1
+Tile Dirt 25 5 1 1
+Tile Dirt 26 5 1 1
+Tile Dirt 22 4 1 1
+Tile Dirt 35 0 1 1
+Tile Dirt 36 0 1 1
+Tile Dirt 37 0 1 1
+Tile Dirt 38 0 1 1
+Tile Dirt 39 0 1 1
+Tile Dirt 40 0 1 1
+Tile Dirt 41 0 1 1
+Tile Dirt 42 0 1 1
+Tile Dirt 43 0 1 1
+Tile Dirt 53 0 1 1
+Tile Dirt 44 0 1 1
+Tile Dirt 46 0 1 1
+Tile Dirt 47 0 1 1
+Tile Dirt 48 0 1 1
+Tile Dirt 49 0 1 1
+Tile Dirt 50 0 1 1
+Tile Dirt 51 0 1 1
+Tile Dirt 79 4 1 1
+Tile Dirt 52 0 1 1
+Tile Dirt 54 0 1 1
+Tile Dirt 55 0 1 1
+Tile Dirt 56 0 1 1
+Tile Dirt 57 0 1 1
+Tile Dirt 58 0 1 1
+Tile Dirt 59 0 1 1
+Tile Dirt 60 0 1 1
+Tile Dirt 61 0 1 1
+Tile Dirt 62 0 1 1
+Tile Dirt 63 0 1 1
+Tile Dirt 64 0 1 1
+Tile Dirt 65 0 1 1
+Tile Dirt 66 0 1 1
+Tile Dirt 67 0 1 1
+Tile Dirt 68 0 1 1
+Tile Dirt 69 0 1 1
+Tile Dirt 70 0 1 1
+Tile Dirt 71 0 1 1
+Tile Dirt 72 0 1 1
+Tile Dirt 73 0 1 1
+Tile Dirt 74 0 1 1
+Tile Dirt 75 0 1 1
+Tile Dirt 76 0 1 1
+Tile Dirt 77 0 1 1
+Tile Dirt 78 0 1 1
+Tile Dirt 79 0 1 1
+Tile Dirt 80 0 1 1
+Tile Dirt 81 0 1 1
+Tile Dirt 82 0 1 1
+Tile Dirt 83 0 1 1
+Tile Dirt 84 0 1 1
+Tile Dirt 81 4 1 1
+Tile Dirt 85 0 1 1
+Tile Dirt 89 0 1 1
+Tile Dirt 90 0 1 1
+Tile Dirt 91 0 1 1
+Tile Dirt 80 4 1 1
+Tile Dirt 93 0 1 1
+Tile Dirt 94 0 1 1
+Tile Dirt 95 0 1 1
+Tile Dirt 97 0 1 1
+Tile Dirt 92 0 1 1
+Tile Dirt 98 0 1 1
+Tile Dirt 100 0 1 1
+Tile Dirt 96 0 1 1
+Tile Dirt 99 0 1 1
+Tile Dirt 33 0 1 1
+Tile Dirt 32 1 1 1
+Tile Dirt 32 2 1 1
+Tile Dirt 32 3 1 1
+Tile Dirt 32 4 1 1
+Tile Dirt 34 4 1 1
+Tile Dirt 39 0 1 1
+Tile Dirt 36 4 1 1
+Tile Dirt 38 4 1 1
+Tile Dirt 43 5 1 1
+Tile Dirt 45 4 1 1
+Tile Dirt 51 5 1 1
+Tile Dirt 57 1 1 1
+Tile Dirt 57 2 1 1
+Tile Dirt 57 3 1 1
+Tile Dirt 57 4 1 1
+Tile Dirt 53 4 1 1
+Tile Dirt 58 5 1 1
+Tile Dirt 60 5 1 1
+Tile Dirt 62 0 1 1
+Tile Dirt 74 1 1 1
+Tile Dirt 74 2 1 1
+Tile Dirt 74 3 1 1
+Tile Dirt 74 4 1 1
+Tile Dirt 74 5 1 1
+Tile Dirt 73 5 1 1
+Tile Dirt 72 5 1 1
+Tile Dirt 52 4 1 1
+Tile Dirt 54 4 1 1
+Tile Dirt 57 5 1 1
+Tile Dirt 86 0 1 1
+Tile Dirt 87 0 1 1
+Tile Dirt 88 0 1 1
+Mob GardenMob 25 1 0 0 1 2 1 Follow 4 550
+Mob GardenMob 59 6 0 0 1 2 1 Follow 4 1000
+Item Speed 2 2
+Item Damage 81 5
+Item Damage 9 6
+Item Speed 21 5
+Item Health 24 1
+Item Health 44 1
+Item Speed 43 1
+Item Damage 58 6
+Mob GardenMob 78 1 0 0 1 4 2 Patrol 4 2 78 1 82 1
+Mob GardenMob 86 1 0 0 1 4 2 Patrol 4 2 86 1 90 1
+Mob GardenMob 90 1 0 0 1 4 2 Patrol 4 2 90 1 95 1
+Tile Dirt 100 0 1 1
+Tile Dirt 101 0 1 1
+Tile Dirt 102 10 1 1
+Tile Dirt 103 0 1 1
+Tile Dirt 104 0 1 1
+Tile Dirt 105 0 1 1
+Tile Dirt 106 0 1 1
+Tile Dirt 107 0 1 1
+Tile Dirt 108 0 1 1
+Tile Dirt 109 0 1 1
+Tile Dirt 117 0 1 1
+Tile Dirt 110 0 1 1
+Tile Dirt 111 0 1 1
+Tile Dirt 113 0 1 1
+Tile Dirt 114 0 1 1
+Tile Dirt 115 0 1 1
+Tile Dirt 119 0 1 1
+Tile Dirt 102 0 1 1
+Exit Ground 102 1 1 1
+Exit Ground 102 2 1 1
+Tile Dirt 102 3 1 1
+Tile Dirt 102 4 1 1
+Tile Dirt 102 5 1 1
+Tile Dirt 102 6 1 1
+Tile Dirt 102 7 1 1
+Tile Dirt 102 8 1 1
+Tile Dirt 102 9 1 1
+Tile Dirt 112 0 1 1
+Tile Dirt 116 0 1 1
+Tile Dirt 118 0 1 1
+Tile Dirt 17 5 1 1
+Tile Dirt 33 4 1 1
+Tile Dirt 39 4 1 1
+Tile Dirt 44 4 1 1
+Tile Dirt 46 4 1 1
+Tile Dirt 59 5 1 1
+Tile Dirt 35 4 1 1
+Tile Dirt 36 0 1 1
+Tile Dirt 37 4 1 1
+Tile Dirt 61 3 1 1
+Mob QueenViolet 98 1 0 0 0 10 3 Boss Poison 90 500 4 3 93 3 90 6 87 5
+Mob GardenMob 24 6 0 0 1 2 1 Follow 4 1000
+Mob GardenMob 41 1 0 0 1 2 1 Follow 4 1000
+Mob GardenMob 47 1 0 0 1 2 1 Follow 4 1000
+Mob GardenMob 52 1 0 0 1 2 1 Follow 4 1000
+Tile Dirt 6 3 1 1
+Tile Dirt 4 6 1 1
+Mob GardenMob 9 5 0 0 1 2 1 Follow 4 400
+Item Speed 75 1

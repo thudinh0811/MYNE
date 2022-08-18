@@ -1,0 +1,45 @@
+Tile Ground  0 0 1 1
+Tile Ground  1 0 1 1
+Tile Ground  2 0 1 1
+Tile Ground  3 0 1 1
+Tile Ground  4 0 1 1
+Tile Ground  5 0 1 1
+Tile Ground  6 0 1 1
+Tile Ground  7 0 1 1
+Tile Ground  8 0 1 1
+Tile Ground  9 0 1 1
+Tile Ground 10 0 1 1
+Tile Ground 11 0 1 1
+Tile Ground 12 0 1 1
+Tile Ground 13 0 1 1
+Tile Ground 14 0 1 1
+Tile Ground 15 0 1 1
+Tile Ground 16 0 1 1
+Tile Ground 17 0 1 1
+Tile Ground 18 0 1 1
+Tile Ground 19 0 1 1
+Tile Ground 20 0 1 1
+Tile Ground 21 0 1 1
+Tile Ground 22 0 1 1
+Tile Ground 23 0 1 1
+Tile Ground 24 0 1 1
+Tile Ground 25 0 1 1
+Tile Ground 26 0 1 1
+Tile Ground 27 0 1 1
+Tile Ground 28 0 1 1
+Tile Ground 29 0 1 1
+Tile Ground 30 0 1 1
+Tile Ground 31 0 1 1
+Tile Ground 32 0 1 1
+Tile Ground 33 0 1 1
+Tile Ground 34 0 1 1
+Tile Ground 35 0 1 1
+Tile Ground 36 0 1 1
+Tile Ground 37 0 1 1
+Tile Ground 38 0 1 1
+
+Door GardenDoor 6 6.5 320 800 0 0 garden.txt
+Door IceDoor 19 6.5 320 800 0 0 ice.txt
+Door BossDoor 32 6.5 320 800 0 0 castle.txt
+
+Player 2 2 48 64 -20 5 20 0.75

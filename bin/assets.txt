@@ -1,0 +1,150 @@
+Texture TexBossDoorClosed images/BossDoorClosed.png
+Texture TexBossDoorOpen images/BossDoorOpen.png
+Texture TexGardenDoorClosed images/GardenDoorClosed.png
+Texture TexIceDoorClosed images/IceDoorClosed.png
+Texture TexGardenDoorOpen images/GardenDoorOpen.png
+Texture TexIceDoorOpen images/IceDoorOpen.png
+Texture TexBossTree images/BossTree.png
+Texture TexCastli images/Castli.png
+Texture TexGardenMob images/GardenMob.png
+Texture TexGardenTree images/GardenTree.png
+Texture TexIceTree images/IceTree.png
+Texture TexGumbelle images/Gumbelle.png
+Texture TexGun images/Gun.png
+Texture TexHammer images/Hammer.png
+Texture TexHealthBar images/HealthBar2.png
+Texture TexIceMob images/IceMob.png
+Texture TexMonaDown images/MonaDown.png
+Texture TexMonaDownRun images/MonaDownRun.png
+Texture TexMonaAir images/MonaAir.png
+Texture TexMonaRight images/MonaRight.png
+Texture TexMonaRightRun images/MonaRightRun.png
+Texture TexMonaRightHand images/MonaRightHand.png
+Texture TexMonaRightHandRun images/MonaRightHandRun.png
+Texture TexPause images/Pause.png
+Texture TexPoison images/Poison.png
+Texture TexSword images/Sword.png
+Texture TexTitle images/Title.png
+Texture TexTitleBackground images/TitleBackground.png
+Texture TexTree images/Tree.png
+Texture TexBlock images/block.png
+Texture TexIceBlock images/blockIce.png
+Texture TexHealth images/PotionHealth.png
+Texture TexSpeed images/PotionSpeed.png
+Texture TexDamage images/PotionDamage.png
+Texture TexBullet images/bullet.png
+Texture TexCloud images/cloud.png
+Texture TexPrincess images/princess.png
+Texture TexQueenDevil images/QueenDevil.png
+Texture TexQueenViolet images/QueenViolet.png
+Texture TexGardenBackground images/GardenBackground.png
+Texture TexGardenLayer1 images/GardenLayer1.png
+Texture TexGardenLayer2 images/GardenLayer2.png
+Texture TexGardenLayerForground images/GardenLayerForground.png
+Texture TexLock images/lock.png
+Texture TexIceCloud images/IceCloud.png
+Texture TexIceBackground images/IceBackground.png
+Texture TexIceLayer1 images/IceLayer1.png
+Texture TexIceLayer2 images/IceLayer2.png
+Texture TexIceForeground images/IceForeground.png
+Texture TexDirt images/dirt.png
+Texture TexCastleBackground images/CastleBackground.png
+Texture TexCastleLayer1 images/CastleLayer1.png
+Texture TexCastleLayer2 images/CastleLayer2.png
+Texture TexCastleForeground images/CastleForeground.png
+Texture TexCastleDeco images/CastleDeco.png
+Texture TexCage images/cage.png
+Texture TexDragon images/Dragon.png
+Texture TexBat images/bat_right.png
+Texture TexPrincessEnd images/PrincessEnd.png
+
+Animation BossDoorClosed TexBossDoorClosed 1 0
+Animation BossDoorOpen TexBossDoorOpen 1 0
+Animation GardenDoorClosed TexGardenDoorClosed 1 0
+Animation IceDoorClosed TexIceDoorClosed 1 0
+Animation GardenDoorOpen TexGardenDoorOpen 1 0
+Animation IceDoorOpen TexIceDoorOpen 1 0
+Animation BossTree TexBossTree 1 0
+Animation Castli TexCastli 1 0
+Animation GardenMob TexGardenMob 1 0
+Animation Speed TexSpeed 1 0
+Animation Health TexHealth 1 0
+Animation Damage TexDamage 1 0
+Animation Gumbelle TexGumbelle 1 0
+Animation Gun TexGun 1 0
+Animation Hammer TexHammer 1 0
+Animation HealthBar TexHealthBar 1 0
+Animation IceMob TexIceMob 1 0
+Animation MonaDown TexMonaDown 1 0
+Animation MonaDownRun TexMonaDownRun 2 10
+Animation Stand TexMonaRight 1 0
+Animation Run TexMonaRightRun 2 10
+Animation Air TexMonaAir 1 0
+Animation MonaRightHand TexMonaRightHand 1 0
+Animation MonaRightHandRun TexMonaRightHandRun 2 10
+Animation Pause TexPause 1 0
+Animation Poison TexPoison 1 0
+Animation Sword TexSword 1 0
+Animation Title TexTitle 1 0
+Animation TitleBackground TexTitleBackground 1 0
+Animation Tree TexTree 1 0
+Animation IceTree TexIceTree 1 0
+Animation Ground TexBlock 1 0
+Animation Bullet TexBullet 1 0
+Animation Cloud TexCloud 1 0
+Animation Princess TexPrincess 1 0
+Animation QueenDevil TexQueenDevil 1 0
+Animation QueenViolet TexQueenViolet 1 0
+Animation GardenTree TexGardenTree 1 0
+Animation IceBlock TexIceBlock 1 0
+Animation Lock TexLock 1 0
+Animation IceCloud TexIceCloud 1 0
+Animation Dirt TexDirt 1 0
+Animation CastleDeco TexCastleDeco 1 0
+Animation Cage TexCage 1 0
+Animation Dragon TexDragon 1 0
+Animation Bat TexBat 3 15
+Animation PrincessEnd TexPrincessEnd 1 0
+
+Animation GardenBackground TexGardenBackground 1 0
+Animation GardenLayer1 TexGardenLayer1 1 0
+Animation GardenLayer2 TexGardenLayer2 1 0
+Animation GardenLayerForground TexGardenLayerForground 1 0
+
+Animation IceBackground TexIceBackground 1 0
+Animation IceLayer1 TexIceLayer1 1 0
+Animation IceLayer2 TexIceLayer2 1 0
+Animation IceForeground TexIceForeground 1 0
+
+Animation CastleBackground TexCastleBackground 1 0
+Animation CastleLayer1 TexCastleLayer1 1 0
+Animation CastleLayer2 TexCastleLayer2 1 0
+Animation CastleForeground TexCastleForeground 1 0
+
+Shader Damaged shaders/damaged.frag
+Shader Speed shaders/speed.frag
+Shader Regen shaders/regen.frag
+Shader DamageBoost shaders/damageBoost.frag
+Shader Breath shaders/breathing.frag
+Shader Solid shaders/solid.frag
+Shader Lighting shaders/lighting.frag
+
+Music MainTheme sounds/MainTheme.wav
+Music BossTheme sounds/BossMusic.wav
+Music GardenTheme sounds/GardenTheme.wav
+Music WorldTheme sounds/WorldTheme.wav
+Music IceTheme sounds/IceTheme.wav
+Music CastleTheme sounds/CastleTheme.wav
+
+Sound EnemyDeath sounds/enemyDeath.wav
+Sound Pickup sounds/pickup.wav
+Sound LevelComplete sounds/LevelComplete.wav
+Sound GunShot sounds/GunShot.wav
+Sound LevelComplete2 sounds/LevelComplete2.wav
+Sound Drink sounds/Drink.wav
+Sound Jump sounds/Jump.wav
+Sound Select sounds/Select.wav
+Sound Hit sounds/Hit.wav
+Sound Swing sounds/Swing.wav
+
+Font DPComic fonts/dpcomic.ttf

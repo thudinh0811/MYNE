@@ -1,0 +1,18 @@
+GAME:
+    UP:          W
+    DOWN:        S
+    LEFT:        A
+    RIGHT:       D
+    NEXT:        E
+    LAST:        Q
+    USE/ATTACK:  Space
+
+PAUSE:  P
+GRID:   G
+TEXTURES: T
+NAVPOINTS: N
+COLLISION: C
+ENTER EDITOR: Shift + O
+
+You are the last MYNE hero on the quest to save the royal princess.
+Travel through the lands defeating monsters and bosses as you look for the princess

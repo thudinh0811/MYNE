@@ -1,0 +1,220 @@
+Player 0 2 48 64 -20 5 20 0.75 15
+Dec CastleDeco 1 11.5
+Dec CastleDeco 6.5 11.5
+Dec CastleDeco 13.5 0
+Dec CastleDeco 5.5 0.5
+Dec CastleDeco 21 11
+Dec CastleDeco 34.5 0
+Dec CastleDeco 31.5 11
+Dec CastleDeco 44.5 1
+Dec CastleDeco 48.5 11
+Dec CastleDeco 57.5 1
+Dec CastleDeco 61.5 10.5
+Dec CastleDeco 68.5 -0.5
+Dec CastleDeco 76.5 11.5
+Dec CastleDeco 83.5 1
+Dec CastleDeco 90.5 11
+Dec Princess 105 1
+Exit Cage 105 2 1 1
+Item Gun 40 1
+Item Hammer 11 1
+Item Sword 2 1
+Item Health 80 5
+Item Speed 76 1
+Item Damage 38 5
+Mob Bat 9 5 0 0 0 2 1 Follow 4 550
+Tile Ground 0 0 1 1
+Tile Ground 1 0 1 1
+Tile Ground 2 0 1 1
+Tile Ground 3 0 1 1
+Tile Ground 4 0 1 1
+Tile Ground 5 0 1 1
+Tile Ground 6 0 1 1
+Tile Ground 7 0 1 1
+Tile Ground 8 0 1 1
+Tile Ground 9 0 1 1
+Tile Ground 10 0 1 1
+Tile Ground 12 0 1 1
+Tile Ground 13 0 1 1
+Tile Ground 8 4 1 1
+Tile Ground 15 0 1 1
+Tile Ground 16 0 1 1
+Tile Ground 18 0 1 1
+Tile Ground 19 0 1 1
+Tile Ground 20 0 1 1
+Tile Ground 21 0 1 1
+Tile Ground 22 0 1 1
+Tile Ground 23 0 1 1
+Tile Ground 24 0 1 1
+Tile Ground 25 0 1 1
+Tile Ground 9 4 1 1
+Tile Ground 14 0 1 1
+Tile Ground 11 0 1 1
+Tile Ground 6 3 1 1
+Tile Ground 10 4 1 1
+Tile Ground 12 7 1 1
+Tile Ground 13 7 1 1
+Tile Ground 27 0 1 1
+Tile Ground 45 0 1 1
+Tile Ground 26 0 1 1
+Tile Ground 28 0 1 1
+Tile Ground 29 0 1 1
+Tile Ground 30 0 1 1
+Tile Ground 31 0 1 1
+Tile Ground 32 0 1 1
+Tile Ground 71 5 1 1
+Tile Ground 34 0 1 1
+Tile Ground 14 7 1 1
+Tile Ground 17 0 1 1
+Tile Ground 16 5 1 1
+Tile Ground 18 5 1 1
+Tile Ground 24 5 1 1
+Tile Ground 17 5 1 1
+Tile Ground 25 5 1 1
+Tile Ground 21 3 1 1
+Tile Ground 29 7 1 1
+Tile Ground 20 3 1 1
+Tile Ground 35 0 1 1
+Tile Ground 36 0 1 1
+Tile Ground 37 0 1 1
+Tile Ground 38 0 1 1
+Tile Ground 39 0 1 1
+Tile Ground 40 0 1 1
+Tile Ground 41 0 1 1
+Tile Ground 42 0 1 1
+Tile Ground 43 0 1 1
+Tile Ground 53 0 1 1
+Tile Ground 44 0 1 1
+Tile Ground 46 0 1 1
+Tile Ground 47 0 1 1
+Tile Ground 48 0 1 1
+Tile Ground 49 0 1 1
+Tile Ground 50 0 1 1
+Tile Ground 51 0 1 1
+Tile Ground 79 4 1 1
+Tile Ground 52 0 1 1
+Tile Ground 54 0 1 1
+Tile Ground 55 0 1 1
+Tile Ground 56 0 1 1
+Tile Ground 57 0 1 1
+Tile Ground 58 0 1 1
+Tile Ground 59 0 1 1
+Tile Ground 60 0 1 1
+Tile Ground 61 0 1 1
+Tile Ground 62 0 1 1
+Tile Ground 63 0 1 1
+Tile Ground 64 0 1 1
+Tile Ground 65 0 1 1
+Tile Ground 66 0 1 1
+Tile Ground 67 0 1 1
+Tile Ground 68 0 1 1
+Tile Ground 69 0 1 1
+Tile Ground 70 0 1 1
+Tile Ground 71 0 1 1
+Tile Ground 72 0 1 1
+Tile Ground 73 0 1 1
+Tile Ground 74 0 1 1
+Tile Ground 75 0 1 1
+Tile Ground 76 0 1 1
+Tile Ground 77 0 1 1
+Tile Ground 78 0 1 1
+Tile Ground 79 0 1 1
+Tile Ground 80 0 1 1
+Tile Ground 81 0 1 1
+Tile Ground 82 0 1 1
+Tile Ground 83 0 1 1
+Tile Ground 84 0 1 1
+Tile Ground 81 4 1 1
+Tile Ground 85 0 1 1
+Tile Ground 89 0 1 1
+Tile Ground 90 0 1 1
+Tile Ground 91 0 1 1
+Tile Ground 80 4 1 1
+Tile Ground 93 0 1 1
+Tile Ground 94 0 1 1
+Tile Ground 95 0 1 1
+Tile Ground 97 0 1 1
+Tile Ground 92 0 1 1
+Tile Ground 98 0 1 1
+Tile Ground 107 3 1 1
+Tile Ground 96 0 1 1
+Tile Ground 99 0 1 1
+Tile Ground 28 7 1 1
+Tile Ground 33 0 1 1
+Tile Ground 31 3 1 1
+Tile Ground 30 3 1 1
+Tile Ground 39 4 1 1
+Tile Ground 37 4 1 1
+Tile Ground 38 4 1 1
+Tile Ground 42 6 1 1
+Tile Ground 43 6 1 1
+Tile Ground 44 6 1 1
+Tile Ground 53 4 1 1
+Tile Ground 58 5 1 1
+Tile Ground 59 5 1 1
+Tile Ground 62 4 1 1
+Tile Ground 63 4 1 1
+Tile Ground 64 4 1 1
+Tile Ground 66 6 1 1
+Tile Ground 67 6 1 1
+Tile Ground 74 5 1 1
+Tile Ground 73 5 1 1
+Tile Ground 72 5 1 1
+Tile Ground 52 4 1 1
+Tile Ground 54 4 1 1
+Tile Ground 57 5 1 1
+Tile Ground 86 0 1 1
+Tile Ground 87 0 1 1
+Tile Ground 88 0 1 1
+Mob Bat 37 5 0 0 0 2 1 Follow 4 550
+Mob Bat 24 6 0 0 0 2 1 Follow 4 550
+Mob Bat 58 7 0 0 0 2 1 Follow 4 550
+Mob Bat 21 4 0 0 0 2 1 Follow 4 550
+Mob Bat 39 1 0 0 0 2 1 Follow 4 550
+Mob Bat 18 1 0 0 0 2 1 Follow 4 550
+Mob Bat 30 1 0 0 0 2 1 Follow 4 550
+Mob Bat 65 1 0 0 0 2 1 Follow 4 550
+Mob Bat 52 5 0 0 0 2 1 Follow 4 550
+Mob Bat 75 1 0 0 0 2 1 Follow 4 550
+Mob Bat 79 5.5 0 0 0 2 1 Follow 4 550
+Item Speed 2 2
+Item Damage 81 5
+Item Damage 9 6
+Item Speed 17 6
+Item Health 24 1
+Item Health 53 5
+Item Speed 28 8
+Item Damage 72 6
+Tile Ground 4 3 1 1
+Tile Ground 5 3 1 1
+Tile Ground 32 3 1 1
+Item Speed 59 6
+Item Damage 58 6
+Mob QueenDevil 48 2.5 0 0 0 15 3 Follow 3 1750
+Mob Dragon 93 2 0 0 1 25 1 Boss Bullet 120 500 3 2 93 1 97 1
+Tile Ground 100 0 1 1
+Tile Ground 101 0 1 1
+Tile Ground 102 0 1 1
+Tile Ground 103 0 1 1
+Tile Ground 104 0 1 1
+Tile Ground 105 0 1 1
+Tile Ground 106 0 1 1
+Tile Ground 107 0 1 1
+Tile Ground 107 1 1 1
+Tile Ground 107 2 1 1
+Exit Ground 101 11 1 1
+Exit Ground 101 1 1 1
+Exit Ground 101 2 1 1
+Exit Ground 101 3 1 1
+Exit Ground 101 4 1 1
+Exit Ground 101 5 1 1
+Exit Ground 101 6 1 1
+Exit Ground 101 7 1 1
+Exit Ground 101 8 1 1
+Exit Ground 101 9 1 1
+Exit Ground 101 10 1 1
+
+Parallax CastleBackground CastleLayer1 CastleLayer2 CastleForeground
+Nav castle.nav
+Music CastleTheme
+ID 2

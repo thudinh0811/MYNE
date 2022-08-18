@@ -1,0 +1,253 @@
+Player 0 2 48 64 -20 5 20 0.75 15
+Dec IceTree 32 4.5
+Dec IceTree 95.5 1.5
+Dec IceTree 18 6.5
+Dec IceTree 52 5.5
+Dec IceCloud 1.5 10
+Dec IceTree 8 1.5
+Dec IceTree 15 1.5
+Dec IceTree 27 1.5
+Dec IceTree 84 1.5
+Dec IceTree 42 1.5
+Dec IceTree 44.5 1.5
+Dec IceTree 63 5.5
+Dec IceTree 60.5 1.5
+Dec IceTree 72 1.5
+Dec IceTree 79 5.5
+Dec IceTree 93 1.5
+Dec IceTree 67 1.5
+Dec IceTree 86 1.5
+Dec IceTree 90.5 1.5
+Dec IceCloud 5.5 10
+Dec IceCloud 21 10
+Dec IceCloud 13.5 10
+Dec IceCloud 17.5 10
+Dec IceCloud 98.5 10
+Dec IceCloud 28.5 10
+Dec IceCloud 32.5 10
+Dec IceCloud 36.5 10
+Dec IceCloud 40.5 10
+Dec IceCloud 44.5 11
+Dec IceCloud 52.5 10
+Dec IceCloud 56.5 10.5
+Dec IceCloud 60.5 10
+Dec IceCloud 66.5 10.5
+Dec IceCloud 70.5 10
+Dec IceCloud 74.5 10.5
+Dec IceCloud 80.5 10.5
+Dec IceCloud 84.5 10
+Dec IceCloud 88.5 10
+Dec IceCloud 94.5 10
+Item Gun 40 1
+Item Hammer 11 1
+Item Sword 2 1
+Item Health 80 5
+Item Speed 75 1
+Item Damage 38 5
+Mob IceMob 20 4 0 0 1 2 1 Follow 4 550
+Tile IceBlock 0 0 1 1
+Tile IceBlock 1 0 1 1
+Tile IceBlock 2 0 1 1
+Tile IceBlock 3 0 1 1
+Tile IceBlock 4 0 1 1
+Tile IceBlock 5 0 1 1
+Tile IceBlock 6 0 1 1
+Tile IceBlock 7 0 1 1
+Tile IceBlock 8 0 1 1
+Tile IceBlock 9 0 1 1
+Tile IceBlock 10 0 1 1
+Tile IceBlock 12 0 1 1
+Tile IceBlock 13 0 1 1
+Tile IceBlock 8 4 1 1
+Tile IceBlock 15 0 1 1
+Tile IceBlock 16 0 1 1
+Tile IceBlock 18 0 1 1
+Tile IceBlock 19 0 1 1
+Tile IceBlock 20 0 1 1
+Tile IceBlock 21 0 1 1
+Tile IceBlock 22 0 1 1
+Tile IceBlock 23 0 1 1
+Tile IceBlock 24 0 1 1
+Tile IceBlock 25 0 1 1
+Tile IceBlock 9 4 1 1
+Tile IceBlock 14 0 1 1
+Tile IceBlock 11 0 1 1
+Tile IceBlock 6 3 1 1
+Tile IceBlock 10 4 1 1
+Tile IceBlock 12 7 1 1
+Tile IceBlock 13 7 1 1
+Tile IceBlock 27 0 1 1
+Tile IceBlock 45 0 1 1
+Tile IceBlock 26 0 1 1
+Tile IceBlock 28 0 1 1
+Tile IceBlock 29 0 1 1
+Tile IceBlock 30 0 1 1
+Tile IceBlock 31 0 1 1
+Tile IceBlock 32 0 1 1
+Tile IceBlock 71 5 1 1
+Tile IceBlock 34 0 1 1
+Tile IceBlock 14 7 1 1
+Tile IceBlock 17 0 1 1
+Tile IceBlock 16 5 1 1
+Tile IceBlock 18 5 1 1
+Tile IceBlock 24 5 1 1
+Tile IceBlock 17 5 1 1
+Tile IceBlock 25 5 1 1
+Tile IceBlock 21 3 1 1
+Tile IceBlock 29 7 1 1
+Tile IceBlock 20 3 1 1
+Tile IceBlock 35 0 1 1
+Tile IceBlock 36 0 1 1
+Tile IceBlock 37 0 1 1
+Tile IceBlock 38 0 1 1
+Tile IceBlock 39 0 1 1
+Tile IceBlock 40 0 1 1
+Tile IceBlock 41 0 1 1
+Tile IceBlock 42 0 1 1
+Tile IceBlock 43 0 1 1
+Tile IceBlock 53 0 1 1
+Tile IceBlock 44 0 1 1
+Tile IceBlock 46 0 1 1
+Tile IceBlock 47 0 1 1
+Tile IceBlock 48 0 1 1
+Tile IceBlock 49 0 1 1
+Tile IceBlock 50 0 1 1
+Tile IceBlock 51 0 1 1
+Tile IceBlock 79 4 1 1
+Tile IceBlock 52 0 1 1
+Tile IceBlock 54 0 1 1
+Tile IceBlock 55 0 1 1
+Tile IceBlock 56 0 1 1
+Tile IceBlock 57 0 1 1
+Tile IceBlock 58 0 1 1
+Tile IceBlock 59 0 1 1
+Tile IceBlock 60 0 1 1
+Tile IceBlock 61 0 1 1
+Tile IceBlock 62 0 1 1
+Tile IceBlock 63 0 1 1
+Tile IceBlock 64 0 1 1
+Tile IceBlock 65 0 1 1
+Tile IceBlock 66 0 1 1
+Tile IceBlock 67 0 1 1
+Tile IceBlock 68 0 1 1
+Tile IceBlock 69 0 1 1
+Tile IceBlock 70 0 1 1
+Tile IceBlock 71 0 1 1
+Tile IceBlock 72 0 1 1
+Tile IceBlock 73 0 1 1
+Tile IceBlock 74 0 1 1
+Tile IceBlock 75 0 1 1
+Tile IceBlock 76 0 1 1
+Tile IceBlock 77 0 1 1
+Tile IceBlock 78 0 1 1
+Tile IceBlock 79 0 1 1
+Tile IceBlock 80 0 1 1
+Tile IceBlock 81 0 1 1
+Tile IceBlock 82 0 1 1
+Tile IceBlock 83 0 1 1
+Tile IceBlock 84 0 1 1
+Tile IceBlock 81 4 1 1
+Tile IceBlock 85 0 1 1
+Tile IceBlock 89 0 1 1
+Tile IceBlock 90 0 1 1
+Tile IceBlock 91 0 1 1
+Tile IceBlock 80 4 1 1
+Tile IceBlock 93 0 1 1
+Tile IceBlock 94 0 1 1
+Tile IceBlock 95 0 1 1
+Tile IceBlock 97 0 1 1
+Tile IceBlock 92 0 1 1
+Tile IceBlock 98 0 1 1
+Tile IceBlock 102 11 1 1
+Tile IceBlock 96 0 1 1
+Tile IceBlock 99 0 1 1
+Tile IceBlock 28 7 1 1
+Tile IceBlock 33 0 1 1
+Tile IceBlock 31 3 1 1
+Tile IceBlock 30 3 1 1
+Tile IceBlock 39 4 1 1
+Tile IceBlock 37 4 1 1
+Tile IceBlock 38 4 1 1
+Tile IceBlock 42 6 1 1
+Tile IceBlock 43 6 1 1
+Tile IceBlock 44 6 1 1
+Tile IceBlock 53 4 1 1
+Tile IceBlock 58 5 1 1
+Tile IceBlock 59 5 1 1
+Tile IceBlock 62 4 1 1
+Tile IceBlock 63 4 1 1
+Tile IceBlock 64 4 1 1
+Tile IceBlock 66 6 1 1
+Tile IceBlock 67 6 1 1
+Tile IceBlock 74 5 1 1
+Tile IceBlock 73 5 1 1
+Tile IceBlock 72 5 1 1
+Tile IceBlock 52 4 1 1
+Tile IceBlock 54 4 1 1
+Tile IceBlock 57 5 1 1
+Tile IceBlock 86 0 1 1
+Tile IceBlock 87 0 1 1
+Tile IceBlock 88 0 1 1
+Mob IceMob 25 1 0 0 1 2 1 Follow 4 550
+Mob IceMob 52 5 0 0 1 2 1 Follow 4 550
+Item Speed 2 2
+Item Damage 81 5
+Item Damage 9 6
+Item Speed 17 6
+Item Health 24 1
+Item Health 53 5
+Item Speed 28 8
+Item Damage 72 6
+Tile IceBlock 4 3 1 1
+Tile IceBlock 5 3 1 1
+Tile IceBlock 32 3 1 1
+Item Speed 59 6
+Item Damage 58 6
+Mob IceMob 9 5 0 0 1 2 1 Follow 4 550
+Mob IceMob 14 8 0 0 1 2 1 Follow 4 550
+Mob IceMob 24 6 0 0 1 2 1 Follow 4 550
+Mob IceMob 30 4 0 0 1 2 1 Follow 4 550
+Mob IceMob 34 1 0 0 1 2 1 Follow 4 550
+Mob IceMob 37 5 0 0 1 2 1 Follow 4 550
+Mob IceMob 43 7 0 0 1 2 1 Follow 4 550
+Mob IceMob 43 1 0 0 1 2 1 Follow 4 550
+Mob IceMob 74 1 0 0 1 2 1 Follow 4 550
+Mob IceMob 47 1 0 0 1 2 1 Follow 4 550
+Mob IceMob 54 1 0 0 1 2 1 Follow 4 550
+Mob IceMob 62 5 0 0 1 2 1 Follow 4 550
+Mob IceMob 67 7 0 0 1 2 1 Follow 4 550
+Mob IceMob 65 1 0 0 1 2 1 Follow 4 550
+Mob IceMob 73 6 0 0 1 2 1 Follow 4 550
+Tile IceBlock 100 0 1 1
+Tile IceBlock 101 0 1 1
+Tile IceBlock 116 0 1 1
+Tile IceBlock 102 3 1 1
+Tile IceBlock 102 4 1 1
+Tile IceBlock 102 5 1 1
+Tile IceBlock 102 6 1 1
+Tile IceBlock 102 7 1 1
+Tile IceBlock 102 8 1 1
+Tile IceBlock 102 9 1 1
+Tile IceBlock 102 10 1 1
+Tile IceBlock 102 0 1 1
+Tile IceBlock 103 0 1 1
+Tile IceBlock 104 0 1 1
+Tile IceBlock 105 0 1 1
+Tile IceBlock 106 0 1 1
+Tile IceBlock 107 0 1 1
+Tile IceBlock 108 0 1 1
+Tile IceBlock 109 0 1 1
+Tile IceBlock 110 0 1 1
+Tile IceBlock 111 0 1 1
+Tile IceBlock 112 0 1 1
+Tile IceBlock 113 0 1 1
+Tile IceBlock 114 0 1 1
+Tile IceBlock 115 0 1 1
+Exit Ground 102 2 1 1
+Exit Ground 102 1 1 1
+Mob Gumbelle 98 2 0 0 0 10 1 Boss Bullet 50 300 5 6 98 2 94 4 97 4 93 2 89 5 91 2 
+
+Parallax IceBackground IceLayer1 IceLayer2 IceForeground
+Nav ice.nav
+Music IceTheme
+ID 1
